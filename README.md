@@ -39,7 +39,7 @@
 ### 本地部署
 1. 克隆项目到本地：
 ```bash
-git clone https://github.com/your-username/eye-care-timer-20-20-20.git
+git clone https://github.com/isabellakiko/eye-care-timer-20-20-20.git
 cd eye-care-timer-20-20-20
 ```
 
