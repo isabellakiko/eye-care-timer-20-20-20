@@ -34,7 +34,7 @@
 ## 🚀 快速开始
 
 ### 在线使用
-直接访问：[https://your-username.github.io/eye-care-timer-20-20-20/](https://your-username.github.io/eye-care-timer-20-20-20/)
+直接访问：[https://github.com/isabellakiko/eye-care-timer-20-20-20.git](https://github.com/isabellakiko/eye-care-timer-20-20-20.git)
 
 ### 本地部署
 1. 克隆项目到本地：
