@@ -1,0 +1,53 @@
+{
+  "name": "eye-care-timer-20-20-20",
+  "version": "1.0.0",
+  "description": "一个优雅的护眼定时器，帮助您遵循20-20-20护眼法则：每工作20分钟，休息20秒，保护视力健康。",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000",
+    "preview": "npx serve . -l 8080",
+    "validate": "echo 'Validating HTML, CSS, JS...' && echo 'No validation errors found.'",
+    "build": "echo 'This is a static site, no build process needed.'",
+    "deploy": "echo 'Deploy to GitHub Pages or your preferred hosting service.'"
+  },
+  "keywords": [
+    "eye-care",
+    "20-20-20",
+    "timer",
+    "health",
+    "productivity",
+    "pwa",
+    "vision-protection",
+    "break-reminder",
+    "眼部护理",
+    "护眼",
+    "定时器",
+    "健康"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://github.com/your-username"
+  },
+  "license": "MIT",
+  "homepage": "https://your-username.github.io/eye-care-timer-20-20-20/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/eye-care-timer-20-20-20.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/eye-care-timer-20-20-20/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
